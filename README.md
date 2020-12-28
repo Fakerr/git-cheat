@@ -16,7 +16,7 @@ $ git cheat
 Use `npm` to install the project.
 
 ```sh
-npm install --global git-cheat
+sudo npm install --global @fakerr/gitchsh
 ```
 ## Requirements
 - Tools: git
