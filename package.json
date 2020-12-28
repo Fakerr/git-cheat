@@ -1,5 +1,5 @@
 {
-  "name": "@fakerr/git-cheat",
+  "name": "@fakerr/git-cheatsheet",
   "version": "1.0.0",
   "description": "beautiful, easy to reach Git cheat sheet in your terminal",
   "main": "index.js",
