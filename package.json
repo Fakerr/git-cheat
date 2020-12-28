@@ -1,0 +1,31 @@
+{
+  "name": "git-cheat",
+  "version": "1.0.0",
+  "description": "beautiful, easy to reach Git cheat sheet in your terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "git-cheat": "./bin/git-cheat"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fakerr/git-cheat.git"
+  },
+  "keywords": [
+    "git",
+    "cli",
+    "command-line",
+    "cheatsheet"
+  ],
+  "author": "Walid Berrahal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fakerr/git-cheat/issues"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "homepage": "https://github.com/Fakerr/git-cheat#readme"
+}
