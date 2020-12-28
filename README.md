@@ -13,7 +13,6 @@ $ git cheat
 ## Installation
 
 ##### Using NPM
-Use `npm` to install the project.
 
 ```sh
 sudo npm install --global @fakerr/gitchsh
