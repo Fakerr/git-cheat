@@ -2,7 +2,7 @@
 
 > Beautiful, easy to reach Git cheat sheet in your terminal
 
-![git recall](https://imgur.com/cNUKoVh.gif)
+![git cheat](https://imgur.com/WKhXa54.gif)
 
 ## Usage
 
